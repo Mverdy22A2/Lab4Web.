@@ -72,3 +72,58 @@ Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 - CSS :
 
 ![image](https://github.com/verz666/Lab4Web./assets/115523263/a06c2c8d-41aa-4138-a073-09758c1e660d)
+
+## Hasilnya :
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/38c083f5-6278-4618-9ab5-ebebff735f88)
+
+## Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/36063963-2999-4e74-a013-76f1c6651501)
+
+## Membuat Sidebar Widget
+Kemudian selanjutnya menambahkan element lain dalam sidebar.
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/d6156593-9254-4b05-982b-e4f499e6b230)
+
+Kemudian tambahkan CSS.
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/c5b1c12e-62d1-4f8e-a2d2-18cac725e7be)
+
+## Hasilnya :
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/21666472-3290-4679-b253-3e780f712e0c)
+
+## Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/f776c23b-d8d6-4d5c-b377-4d4ef0dcbbd3)
+
+## Hasilnya :
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/7aa808c0-b25a-46cd-94f4-23215c908e7e)
+
+## Menambahkan Elemen lainnya pada Main Content
+
+- HTML :
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/e2c4b04f-c421-46f2-9d43-b1ddeedcd873)
+
+- CSS :
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/d3dcac33-616c-4822-9221-d17f8c35f775)
+
+## Hasilnya :
+
+## Menambahkan Content Artikel
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/38a49002-1857-4027-875a-bbe0b5619935)
+
+Kemudian tambahkan CSS.
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/7caf65f7-f319-4fc5-897d-50bddc535cdc)
+
+## Hasilnya :
+
