@@ -93,7 +93,7 @@ Kemudian tambahkan CSS.
 
 ## Hasilnya :
 
-![image](https://github.com/verz666/Lab4Web./assets/115523263/21666472-3290-4679-b253-3e780f712e0c)
+![image](https://github.com/verz666/Lab4Web./assets/115523263/7b2862d3-a86b-4774-922f-d34a87d3e63d)
 
 ## Mengatur Footer
 Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
@@ -116,6 +116,8 @@ Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 
 ## Hasilnya :
 
+![image](https://github.com/verz666/Lab4Web./assets/115523263/e1897c34-4cb5-4f56-8ed1-38da48b72c7b)
+
 ## Menambahkan Content Artikel
 Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 
@@ -127,3 +129,15 @@ Kemudian tambahkan CSS.
 
 ## Hasilnya :
 
+![image](https://github.com/verz666/Lab4Web./assets/115523263/1c0ffd10-9879-4138-b8ec-690118820b5f)
+
+# Pertanyaan dan Tugas
+## 1. Tambahkan Layout untuk menu About
+- => buat single layout yang berisi deskripsi, portfolio, dll
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/fa815c33-1753-475d-8b4e-14f548033441)
+
+## 2. Tambahkan layout untuk menu Contact
+- => yang berisi form isian: nama, email, message, dll
+
+![image](https://github.com/verz666/Lab4Web./assets/115523263/2dcec948-e67c-4a3c-9b95-1ae4f5049489)
